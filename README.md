@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-// the peak of the best programming languange this century
+##the peak of the best programming languange this century
 
+```
 console.log({}+"x")
 console.log(0.1 + 0.2)
 console.log(Math.min() > Math.max())
@@ -26,7 +27,7 @@ console.log([2,2]*[2,2])
 console.log(parseInt(Infinity,10))
 console.log(parseInt(Infinity,30))
 console.log(['1','7','11'].map(parseInt))
-
+```
 <!--
 **arcteta/arcteta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
