@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##the peak of the best programming languange this century
+## the peak of the best programming languange this century
 
 ```
 console.log({}+"x")
